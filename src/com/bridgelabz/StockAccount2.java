@@ -10,7 +10,7 @@ package com.bridgelabz;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class StockSAccount2 {
+public class StockAccount2 {
     // Array list of stock account
     ArrayList<StockAccount1> list = new ArrayList<>();
     // object of scanner class for user input
@@ -50,7 +50,7 @@ public class StockSAccount2 {
     }
 
     public static void main(String[] args) {
-        StockSAccount2 stockPortfolio = new StockSAccount2();
+        StockAccount2 stockPortfolio = new StockAccount2();
         stockPortfolio.setStocks();
         stockPortfolio.getStockInfo();
     }
