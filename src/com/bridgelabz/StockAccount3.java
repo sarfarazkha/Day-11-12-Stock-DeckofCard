@@ -70,7 +70,7 @@ class StockPortfolio extends Stock {
             System.out.println("Stock name= " + stockName.get(i) + "\nValue of each share= " + sharePrice.get(i)
                     + "\nTotal value of share= " + total);
             System.out.println(" ");
-
+ 
         }
 
     }
