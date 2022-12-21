@@ -32,7 +32,7 @@ public class StockAccount1 {
 
     public double getTotalValueOfShares() {
         return totalValueOfShares;
-    }
+    } 
 
     public void setTotalValueOfShares(double totalValueOfShares, double sharePrices) {
         this.totalValueOfShares = totalValueOfShares;
