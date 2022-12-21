@@ -52,6 +52,6 @@ public class StockAccount2 {
     public static void main(String[] args) {
         StockAccount2 stockPortfolio = new StockAccount2();
         stockPortfolio.setStocks();
-        stockPortfolio.getStockInfo();
+        stockPortfolio.getStockInfo(); 
     }
 }
